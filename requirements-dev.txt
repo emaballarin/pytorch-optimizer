@@ -3,7 +3,7 @@ bandit==1.8.3
 black==25.1.0
 flake8-bugbear==21.9.2
 flake8==7.2.0
-ipdb==0.13.9
+ipdb==0.13.13
 isort==6.0.1
 mypy==0.910
 numpy==2.0.2
