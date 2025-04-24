@@ -1,7 +1,7 @@
 -e .
 bandit==1.8.3
 black==25.1.0
-flake8-bugbear==21.9.2
+flake8-bugbear==24.12.12
 flake8==7.2.0
 ipdb==0.13.13
 isort==6.0.1
