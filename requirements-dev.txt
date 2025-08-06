@@ -13,6 +13,6 @@ pytest==8.4.1
 pytorch_ranger==0.1.1
 sphinx-autodoc-typehints==2.3.0
 sphinx==7.4.7
-torch==2.7.1
+torch==2.8.0
 twine==6.1.0
 wheel==0.45.1
