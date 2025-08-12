@@ -1,4 +1,4 @@
-torch==2.7.1
+torch==2.8.0
 hyperopt==0.2.7
 torchvision==0.22.1
 matplotlib==3.9.4
