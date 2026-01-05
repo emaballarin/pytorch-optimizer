@@ -6,7 +6,7 @@ flake8==7.3.0
 ipdb==0.13.13
 isort==6.1.0
 mypy==1.19.1
-numpy==2.0.2
+numpy==2.4.0
 pyroma==5.0.1
 pytest-cov==7.0.0
 pytest==8.4.2
