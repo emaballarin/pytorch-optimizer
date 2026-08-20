@@ -14,5 +14,5 @@ pytorch_ranger==0.1.1
 sphinx-autodoc-typehints==3.0.1
 sphinx==9.1.0
 torch==2.13.0
-twine==6.2.0
+twine==7.0.0
 wheel==0.48.0
